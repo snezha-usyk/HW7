@@ -10,12 +10,3 @@ ul + p{
     font-size: 24px;
 }
 
-:root{
-   --accent-color: #2196F3
-   --logo-color: #000
-   --text-color: #757575
-    --title-color: #FFF
-    --title-color: #212121
-    --fon-color: #2F303A
-    --fon-color: #F5F4FA
-}
